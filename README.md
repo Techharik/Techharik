@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 

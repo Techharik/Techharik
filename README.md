@@ -62,12 +62,13 @@
 <br/>
 
 ## Connect with me:
-<p align="left">
 
-    <a href="https://www.linkedin.com/in/k-hari-prasath/">
-  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
-</a>
-</p>
+
+   <a href="https://www.linkedin.com/in/k-hari-prasath/">
+                    <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+   </a>
+   <br>
+   <br>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">

@@ -6,18 +6,18 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Avodha as a Fullstack Tutor**
+- 🔭 I’m currently working on **Webqoda as a Fullstack Tutor**
 
-- 🌱 I’m currently learning **React js and Python.**
+- 🌱 I’m currently learning **Nextjs and  Python.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 
-- 📫 How to reach me **Khariprasath351@gmail.com**
+- 📫 How to reach me **Khariprasath30@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=khari-on)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Techharik)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🚀 Languages and Tools:
 
@@ -39,16 +39,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/khari-on/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hari Prasath's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=khari-on&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Techharik/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hari Prasath's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Techharik&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/khari-on/github-readme-stats"><img alt="Hari Prasath's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khari-on&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/khari-on/github-readme-stats"><img alt="Hari Prasath's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khari-on&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Techharik/github-readme-stats"><img alt="Hari Prasath's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khari-on&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Techharik/github-readme-stats"><img alt="Hari Prasath's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techharik&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -56,7 +56,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/khari-on/github-readme-activity-graph"><img alt="Hari Prasath's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=khari-on&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Techharik/github-readme-activity-graph"><img alt="Hari Prasath's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Techharik&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>

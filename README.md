@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Webqoda as a Fullstack Tutor**
+- 🔭 I’m currently working on **Novagito as a Fullstack Tutor**
 
 - 🌱 I’m currently learning **Nextjs and  Python.**
 

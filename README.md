@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **Khariprasath30@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Techharik)](https://github.com/ryo-ma/github-profile-trophy)
 

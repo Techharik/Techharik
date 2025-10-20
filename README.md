@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,materialui,css,sass,tailwind,javascript,nodejs,typescript,python,mysql,mongodb,firebase,gcp,docker,kubernetes,aws,cloudflare,netlify,heroku,postman,appwrite,atom,rust,vitest,jest,redux" />
+    <img src="https://skillicons.dev/icons?i=react,vite,materialui,css,sass,tailwind,javascript,nodejs,typescript,python,mysql,mongodb,firebase,gcp,docker,kubernetes,aws,cloudflare,netlify,heroku,postman,appwrite,atom,rust,vitest,jest,redux,apollo,bash,bun,fastapi,postgres,prometheus" />
   </a>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,githubactions,git,stackoverflow,devto,bots,vscode,idea,figma" />
+    <img src="https://skillicons.dev/icons?i=github,githubactions,git,stackoverflow,vscode,idea,figma,vim,linux,ngnix" />
   </a>
 </p>
 
